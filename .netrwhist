@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/gloria/bitcoin'
+let g:netrw_dirhist_0='/'
+let g:netrw_dirhist_9='/Users'
+let g:netrw_dirhist_8='/Users/gloria'
+let g:netrw_dirhist_7='/Users/gloria/bitcoin'
+let g:netrw_dirhist_6='/Users/gloria'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_4='/Users'
+let g:netrw_dirhist_3='/Users/gloria'
+let g:netrw_dirhist_2='/Users/gloria/bitcoin'
