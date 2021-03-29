@@ -1,3 +1,24 @@
 [submodule "bundle/fzf"]
 	path = bundle/fzf
 	url = https://github.com/junegunn/fzf
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = https://tpope.io/vim/fugitive.git
+[submodule "bundle/airline"]
+	path = bundle/airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "bundle/delimitMate"]
+	path = bundle/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "bundle/diminactive"]
+	path = bundle/diminactive
+	url = https://github.com/blueyed/vim-diminactive
+[submodule "bundle/commentary"]
+	path = bundle/commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "bundle/coc.nvim"]
+	path = bundle/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
