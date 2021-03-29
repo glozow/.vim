@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =1
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/gloria/bitcoin'
+let g:netrw_dirhist_2='/Users/gloria/.vim'
 let g:netrw_dirhist_1='/Users/gloria/bitcoin'
 let g:netrw_dirhist_0='/Users/gloria'
 let g:netrw_dirhist_9='/Users/gloria/bitcoin'
@@ -8,5 +10,3 @@ let g:netrw_dirhist_7='/Users/gloria/bitcoin'
 let g:netrw_dirhist_6='/Users/gloria/bitcoin/src'
 let g:netrw_dirhist_5='/Users/gloria/bitcoin'
 let g:netrw_dirhist_4='/Users/gloria/.tmux'
-let g:netrw_dirhist_3='/Users/gloria/bitcoin'
-let g:netrw_dirhist_2='/Users/gloria/bitcoin/src/script'
